@@ -1,0 +1,45 @@
+/* CSS Document */
+
+#page-title {
+	font-family: 'Helvetica', 'Helvetica Bold', 'Helvetica Bold Oblique', 'Helvetica Light', 'Helvetica Light Oblique';
+	font-weight: bold;
+	background-image: url(../images/pattern.jpg);
+	font-size: 100px;
+	color: khaki;
+	text-align: center;
+}
+
+p {
+	font-family: 'Helvetica', 'Helvetica Bold', 'Helvetica Bold Oblique', 'Helvetica Light', 'Helvetica Light Oblique';
+}
+
+
+.highlighted {
+	color: blue;
+	font-weight: bold
+}
+
+.panel {
+	
+	font-weight: bold;
+	font-family: Helvetica;
+	font-size: 32px;
+	color: white;
+
+}
+
+.red {
+	background-color: lightcoral;
+}
+
+.green {
+	background-color: mediumspringgreen;
+}
+
+.blue {
+	background-color: skyblue;
+}
+
+h3 {
+	font-weight: bold;
+}
